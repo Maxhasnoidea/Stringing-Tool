@@ -40,8 +40,6 @@ Forcefields:
 - Create Bezier Curve
 - Get Orthogonal Projection
 - Get Phytonscript
-________________________________________________Version 1.0
-
 
 
 
