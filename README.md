@@ -1,8 +1,11 @@
-Stringing Tool
+Stinging Tool is a digital tool to sketch in 3d space. It is used to create complex curves that are globally adjustable. It is dynamic within its constraints and describes a 3d object in its dimension.
+
+The tool has its origins in the works of Gaudi and Insler, architects that didn’t drew the b
+ 
 
 Functionality:
 
--  Positining Box for Points and Forcefields
+-  Positioning Box for Points and Forcefields
 -  Leveling Points and Forcefields on Axis shortcut r,t,z
 -  Hotkey List
 -  GUI
@@ -26,7 +29,7 @@ Connections:
   - Select next Line
   - Select previous Line
   - Delete Connection
-  - Remove slected Connection
+  - Remove selected Connection
 
 Forcefields:
   - Add Forcefield
@@ -39,8 +42,4 @@ Forcefields:
 
 - Create Bezier Curve
 - Get Orthogonal Projection
-- Get Phytonscript
-
-
-
-
+- Get Pyhton Script
